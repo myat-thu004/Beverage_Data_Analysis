@@ -1,0 +1,101 @@
+SupplierID,SupplierName,SupplierCity,SupplierCountry,PaymentTerms
+3001,Fowler-Smith,Harrisbury,France,NET15
+3002,Bradshaw PLC,South Ryanview,Singapore,NET45
+3003,Gill-Tran,Nicolemouth,Brazil,NET30
+3004,Wilkins Inc,Earlville,Singapore,EOM
+3005,Harris-Savage,West Karentown,UK,NET45
+3006,Graham-Williams,North Stacyside,Mexico,COD
+3007,"Gomez, Mcintyre and Sanchez",Priceside,Italy,COD
+3008,George-Wilkerson,Vanessafurt,Italy,NET15
+3009,Bridges Group,Lake Paula,Spain,EOM
+3010,Wilson-Jackson,Fieldsview,France,NET30
+3011,Reilly-Perez,Ryanstad,India,COD
+3012,Bradley Group,Watsonbury,Canada,COD
+3013,Robinson-Young,West Fredborough,UK,COD
+3014,Brown-Diaz,South Michael,Spain,EOM
+3015,Gray-Cooper,Lisaberg,Canada,NET30
+3016,Myers Group,Andersonbury,Germany,COD
+3017,Moreno PLC,Port Markton,Australia,COD
+3018,"Davidson, Johnson and Giles",Cynthiaview,Australia,NET45
+3019,Quinn Group,Richardchester,Germany,NET30
+3020,Delacruz-Lester,Sandovalstad,China,NET30
+3021,Duncan Group,East Paul,Canada,NET45
+3022,Zavala-Chan,West James,Brazil,EOM
+3023,"Golden, Skinner and Decker",Brownfurt,South Africa,EOM
+3024,"Gonzalez, Ramos and Lewis",Kennethburgh,Italy,NET30
+3025,Perez-Bowers,South Erica,Singapore,NET15
+3026,"Madden, Pitts and Perez",Williamshire,Canada,NET45
+3027,Ward-Todd,New Nicholashaven,Mexico,NET45
+3028,"Lewis, Moore and Coleman",West Tina,Spain,NET15
+3029,Johnson PLC,Henryville,India,EOM
+3030,"Flynn, Clay and Austin",West Shawnland,Japan,NET30
+3031,Hall Group,Floresbury,Italy,NET45
+3032,"Brady, Hamilton and Rodriguez",East Aaron,UK,NET15
+3033,Powers-Taylor,South Jason,UK,NET45
+3034,Wilson-Lowe,East Karen,UK,NET45
+3035,Jones-Jones,New Amanda,USA,EOM
+3036,"Nguyen, Clark and Perez",Port Jackhaven,Italy,NET15
+3037,"Turner, Rodgers and Gonzales",Walkerchester,South Africa,COD
+3038,"Parker, Patrick and Baker",East Kathy,Brazil,NET30
+3039,Patton-Williams,Bridgesside,Canada,COD
+3040,Davis-Bradley,Port Stephen,Spain,NET15
+3041,Wright-Rivera,Christopherhaven,USA,COD
+3042,"Zhang, Kim and Thompson",Hornemouth,China,EOM
+3043,York LLC,West Emily,UK,NET15
+3044,"Moore, Montgomery and Ross",South Danielle,India,COD
+3045,"Oneal, Thompson and Torres",South Andreachester,India,NET30
+3046,Alexander LLC,Johnsonbury,Brazil,EOM
+3047,Turner-Lane,Port Joshuaberg,India,NET15
+3048,Smith and Sons,Port Patrickside,India,EOM
+3049,Medina-Lawrence,Huynhville,China,NET15
+3050,"Jennings, Abbott and Mullins",New Rebeccafurt,Mexico,COD
+3051,Miller Inc,Reynoldsmouth,Spain,NET15
+3052,Brady-Murphy,Lake Kylebury,India,NET30
+3053,"Stephens, Mccarthy and Wolf",Port Vanessa,Italy,NET45
+3054,Hernandez-Dawson,West Eric,Singapore,NET15
+3055,Mills Ltd,North James,Japan,NET30
+3056,"Baker, White and Gross",Port Teresastad,Spain,COD
+3057,"Smith, Garcia and Henry",New Aprilhaven,China,NET45
+3058,Burgess-Garcia,West Monicatown,South Africa,NET15
+3059,"Clark, Greene and Butler",Aliciaborough,Brazil,NET45
+3060,Morgan and Sons,South Jonathanville,South Africa,NET30
+3061,Krause-Wright,East Cassidy,UK,NET15
+3062,Castaneda LLC,New Brendaberg,Japan,COD
+3063,Smith Group,Kennethtown,Canada,COD
+3064,"Garcia, Garcia and Evans",West Ricardo,Singapore,COD
+3065,Kelly PLC,New Cherylmouth,Spain,COD
+3066,Turner-Rogers,South Kevinbury,France,NET15
+3067,Salazar-Smith,Taylorton,South Africa,NET30
+3068,Kline-Edwards,Robbinschester,USA,NET45
+3069,Miller Inc,New Kathrynfurt,China,NET30
+3070,Padilla PLC,Tuckerbury,Singapore,NET45
+3071,Rowe Inc,New Maryfort,Spain,EOM
+3072,Holt and Sons,Brownshire,Japan,NET15
+3073,Simmons-Baxter,Carrolltown,Canada,NET45
+3074,Barton-Wright,Port Zacharymouth,Mexico,EOM
+3075,Luna LLC,Port Curtisshire,India,NET45
+3076,"King, Davis and Taylor",Brandontown,France,COD
+3077,Woodward Group,Rickyberg,China,EOM
+3078,Rogers-Cortez,South Erinmouth,India,NET15
+3079,"Ortiz, Cisneros and Paul",New Theresa,Brazil,COD
+3080,Harris Inc,Lake Keithfort,India,COD
+3081,"Russell, Orozco and Contreras",North Susan,India,NET15
+3082,Perkins PLC,Hughesbury,Australia,EOM
+3083,Galloway Group,Robinsonton,Mexico,COD
+3084,Mckinney-Santiago,Diazside,Brazil,COD
+3085,Pollard LLC,Austinstad,UK,COD
+3086,Blake-Haas,Port Jorgestad,Brazil,NET45
+3087,"Hall, Nichols and Atkins",New Sharon,Singapore,NET15
+3088,Cox-King,Pamelaland,India,COD
+3089,Francis-Martin,Lake Robert,Singapore,COD
+3090,Wilson and Sons,Longfurt,Brazil,COD
+3091,Barber-Owen,Lake Denise,India,COD
+3092,Smith-Haas,Lake Mollyburgh,Singapore,COD
+3093,"Cortez, Russell and Weber",West Jennifer,USA,COD
+3094,"Carlson, Bailey and Dalton",Ryanmouth,Italy,NET15
+3095,"Krause, Jones and Green",Kennethview,Australia,NET45
+3096,"Buchanan, Glass and Olson",South Jeffrey,UK,COD
+3097,Smith LLC,Allenberg,Australia,NET30
+3098,"Jackson, Olson and Mcintyre",South Johnville,UK,NET30
+3099,Simmons LLC,Karashire,USA,EOM
+3100,Dorsey-Sanford,Port Gabrielhaven,UK,EOM
